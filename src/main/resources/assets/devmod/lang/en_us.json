@@ -1,0 +1,8 @@
+{
+  "itemGroup.devmod": "Example Mod Tab",
+  "block.devmod.dzyrite_block": "Dzyrite Block",
+  "block.devmod.dzyrite_lamp": "Dzyrite Lamp",
+  "block.devmod.dzyrite_ore": "Dzyrite Ore",
+  "item.devmod.example_item": "Example 1",
+  "item.devmod.dzyrite": "Dzyrite Gem"
+}
